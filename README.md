@@ -2,4 +2,4 @@
 
 Testing the Git and Github systems.
 
-[test](https://tse3.mm.bing.net/th?id=OIP.YKL1nu_5QltFPWrXSVcx4wHaLH&pid=Api&P=0&w=300&h=300)
+[bottle_glass_wc](https://user-images.githubusercontent.com/33405945/66175955-612a9280-e621-11e9-908a-7b4c4b364f98.png)
